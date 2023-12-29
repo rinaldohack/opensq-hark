@@ -1,8 +1,6 @@
 # Hark! The Herald Angels Sing (Gita Surga Bergema) | EDM Instrumental | Ableton 11 Suite Project FIle (11.2.6) 
 
-"Remix by #projectBeautifulChaos"
-
-A glimpse into my thought process.
+Remix by #projectBeautifulChaos - A glimpse into my thought process.
 
 ## License
 
