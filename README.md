@@ -39,3 +39,6 @@ Under the following terms:
 ## Credit Details
 
 [#projectBeautifulChaos](https://github.com/rinaldojonathan) [Rinaldo Jonathan](https://youtube.com/rinaldojonathan) [GPdI Ecclesia](https://instagram.com/@ecclesia_pku) 
+
+## Download 
+[Multitracks](https://github.com/rinaldohack/opensq-hark/releases/tag/multitracks) [Project File](https://github.com/rinaldohack/opensq-hark/archive/refs/heads/main.zip)
